@@ -166,6 +166,11 @@ Response:
   "reviews": 4
 }
 
+
+When a new recipe is successfully added via the POST /api/recipe endpoint, it will be appended to a local text file named my_fav_recipes.txt. This file will store a textual representation of the recipe with details such as the name, ingredients, cuisine, taste, prep time, and reviews.
+
+
+
 POST /generate
 
 This endpoint generates a recipe based on user input preferences, such as cravings for a certain taste (e.g., sour, sweet, savory).
@@ -174,3 +179,8 @@ Request Body:
 {
   "preference": "I want something sour today"
 }
+
+
+
+
+
