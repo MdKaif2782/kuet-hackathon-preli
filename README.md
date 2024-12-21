@@ -30,7 +30,7 @@ Before setting up the project, make sure you have the following installed:
 
 ```bash
 git clone https://github.com/your-username/mofas-kitchen-buddy.git
-cd mofas-kitchen-buddy
+cd Challenge-2
 
 2. Install dependencies
 
@@ -123,7 +123,7 @@ Example Response:
   {
     "id": 1,
     "name": "Pasta Primavera",
-    "ingredients": "[\"pasta\", \"tomato\", \"garlic\", \"olive oil\"]",
+    "ingredients": "["pasta", "tomato", "garlic", "olive oil"]",
     "cuisine": "Italian",
     "taste": "Savory",
     "prep_time": "20 minutes",
@@ -132,7 +132,7 @@ Example Response:
   {
     "id": 2,
     "name": "Chocolate Cake",
-    "ingredients": "[\"flour\", \"sugar\", \"cocoa\", \"butter\"]",
+    "ingredients": "["flour", "sugar", "cocoa", "butter"]",
     "cuisine": "American",
     "taste": "Sweet",
     "prep_time": "45 minutes",
