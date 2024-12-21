@@ -29,7 +29,7 @@ Before setting up the project, make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mofas-kitchen-buddy.git
+git clone (https://github.com/MdKaif2782/kuet-hackathon-preli)
 cd Challenge-2
 
 2. Install dependencies
